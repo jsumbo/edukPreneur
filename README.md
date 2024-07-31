@@ -35,9 +35,9 @@ Career Pathways: Opportunities for internships and apprenticeships that bridge t
 ## Installation
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/jsumbo/edukpreneur.git
 
-$ cd django-learning-management-system
+$ cd edukpreneur
 
 $ pip install -r requirements.txt
 ```
@@ -51,6 +51,9 @@ $ python manage.py migrate
 
 $ python manage.py runserver
 ```
+
+# PS 
+You can create a Django admin user to view other admin functionalities 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
