@@ -2,7 +2,7 @@
 
 Edukpreneur is a web application aimed at transforming Liberia's secondary education system by integrating entrepreneurship education into the core curriculum. This innovative platform reimagines secondary education as a critical transition point to the workforce. By nurturing entrepreneurial skills and strengthening the entrepreneurial ecosystem, Edukprenuer prepares young people with the ideas, skills, and access they need to thrive in the uncertain future of work. The app empowers students to think creatively, develop business acumen, and connect with mentors and resources, ultimately fostering a generation of skilled, confident, and forward-thinking leaders.
 
-### Demo:
+### Live Demo:
 [https://](https://edukpreneur-8af9fe026a40.herokuapp.com/)
 
 
